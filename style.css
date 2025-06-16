@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+.gallery img{
+    size: ;
+    card rounded-lg
+}
