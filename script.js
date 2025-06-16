@@ -28,7 +28,7 @@
 
  <div class="" >
 
- <img class="rounded-lg w-full h-60 object-cover overflow-hidden" src="${image.download_url}" alt="Random image by ${image.author}" />
+ <img class="rounded-lg w-full h-60 object-cover overflow-hidden hover:scale-105 transition duration-300 ease-in-out" src="${image.download_url}" alt="Random image by ${image.author}" />
 
  </div>
 
